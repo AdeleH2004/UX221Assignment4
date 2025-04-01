@@ -22,17 +22,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/contact/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/welcome/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
@@ -42,7 +37,52 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/photography/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/photography/sunset/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/cats/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/summer/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/winter/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/lake/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/walk/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/sunny/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/nature/
         </loc>
     </url>
     <url>
