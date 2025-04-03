@@ -57,6 +57,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/home/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/print-of-a-photo/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products-2/squeak-stuffy/
         </loc>
     </url>
@@ -68,6 +78,11 @@
     <url>
         <loc>
             http://localhost:8000/products-2/custom-mug/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/custom-postcard/
         </loc>
     </url>
     <url>
