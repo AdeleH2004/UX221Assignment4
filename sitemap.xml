@@ -37,7 +37,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/welcome/
         </loc>
     </url>
     <url>
@@ -57,7 +57,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/home/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
@@ -83,11 +83,6 @@
     <url>
         <loc>
             http://localhost:8000/products-2/custom-postcard/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
