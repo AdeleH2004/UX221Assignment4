@@ -280,3 +280,21 @@ Stack trace:
 #3 [internal function]: IC_EPC_Tracking->fatal()
 #4 {main}
   thrown in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 126
+[03-Apr-2025 22:40:54 UTC] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:55 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:56 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:56 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:56 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:56 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:57 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:57 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:57 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:58 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:58 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:58 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:58 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:59 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:59 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:40:59 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 53
+[03-Apr-2025 22:41:56 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/functions.php on line 32
+[03-Apr-2025 22:42:50 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/themes/kubio/lib/colibriwp/src/Customizer.php on line 1
